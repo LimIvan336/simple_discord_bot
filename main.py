@@ -96,7 +96,7 @@ async def changeprefix(ctx, prefix):
     with open("prefixes.json", "r") as f:
         prefixes = json.load(f)
 
-    #set default prefix to "!"
+    #set default prefix to input
     prefixes[str(ctx.guild.id)] = prefix
 
     with open("prefixes.json", "w") as f:
