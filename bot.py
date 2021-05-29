@@ -137,4 +137,4 @@ async def on_command_error(ctx, error):
         raise error
         
 #Your bot token
-client.run("NTIyMjg2ODU1NzgyMjY4OTY5.XBCfig.SewQtYg2EPLOwusD_2ke2bEwEzk")
+client.run("YOUR TOKEN")
