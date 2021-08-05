@@ -27,7 +27,9 @@ Upgrading to the latest version with the `-U` flag:
 ### Setup
 Download the files manually or clone the repository into your machine.
 
-Locate the main driver file (main.py). Edit the 
+Locate the main driver file (main.py). Edit the last line by replacing "YOUR TOKEN" with your discord bot's token.
+
+Discord bot account tutorial can be found [here](https://discordpy.readthedocs.io/en/stable/discord.html)
 <br>
 
 ## Running
