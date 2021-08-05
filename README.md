@@ -1,9 +1,4 @@
-# Chessengine with Pygame
-
-<!-- ![Image of chess in pygame](https://github.com/LimIvan336/LimIvan336/blob/main/images/chessengine_screenshot.PNG) -->
-<p align="center">
-  <img src="https://github.com/LimIvan336/LimIvan336/blob/main/images/chessengine_screenshot.PNG", alt="Image of chess in pygame">
-</p>
+# Simple Discord Bot
 
 ## Description
 
