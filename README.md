@@ -37,6 +37,7 @@ Locate the main driver file (main.py). Edit the
 </t>`python3 main.py`
 
 * To see all possible commands, go to the discord chatbox and type:
+* 
 </t>`!help` 
 
 ## Remarks
